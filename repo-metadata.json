@@ -1,0 +1,12 @@
+{
+  "description": "Automated multi-bitrate HLS adaptive bitrate (ABR) video packager with master playlist generation",
+  "topics": [
+    "ffmpeg",
+    "hls",
+    "adaptive-bitrate",
+    "video-streaming",
+    "ott",
+    "video-transcoding",
+    "vod"
+  ]
+}
