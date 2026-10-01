@@ -3,10 +3,10 @@
 > **Topics:** `ffmpeg` `hls` `adaptive-bitrate` `video-streaming` `ott` `video-transcoding` `vod`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/ffmpeg-abr-packager/releases/tag/v1.0.0)
-[![CI/CD Pipeline](https://github.com/MobileConduit/ffmpeg-abr-packager/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/ffmpeg-abr-packager/actions)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/ffmpeg-abr-packager/releases/tag/v1.0.0)
+[![CI/CD Pipeline](https://github.com/shadialhasan/ffmpeg-abr-packager/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/ffmpeg-abr-packager/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Format: HLS](https://img.shields.io/badge/Streaming-HLS%20ABR-blueviolet.svg)](https://github.com/MobileConduit)
+[![Format: HLS](https://img.shields.io/badge/Streaming-HLS%20ABR-blueviolet.svg)](https://github.com/shadialhasan)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![FFmpeg: 5.0+](https://img.shields.io/badge/FFmpeg-5.0%2B-red.svg)](https://ffmpeg.org)
 
@@ -90,7 +90,7 @@ sequenceDiagram
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/ffmpeg-abr-packager.git
+git clone https://github.com/shadialhasan/ffmpeg-abr-packager.git
 cd ffmpeg-abr-packager
 pip install -r requirements.txt
 ```
@@ -171,7 +171,7 @@ pytest --verbose --tb=short tests/
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
