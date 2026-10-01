@@ -1,1 +1,5 @@
-# FFmpeg 5.0+ required
+# FFmpeg 5.0+ or 6.0+ system binary required
+
+# Testing & Quality
+pytest>=8.0.0
+pytest-cov>=4.1.0
